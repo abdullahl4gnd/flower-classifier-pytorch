@@ -1,0 +1,17 @@
+# virtual environment
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# dataset (downloaded by the notebook)
+flower_data/
+corrupted_flower_data/
+*.tgz
+
+# editor and os
+.vscode/
+Thumbs.db
